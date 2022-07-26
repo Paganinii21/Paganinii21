@@ -1,7 +1,3 @@
 - 👋 Olá, sou a professora Lilian Paganini!
-- 
-- 
-<!---
-Paganinii21/Paganinii21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ✨ Sou formada em História, Sociologia e Ciências Contábeis.
+- ✨ Sou professora no Colégio Estadual Arthur de Azevedo e no Colégio Estadual Diogo Álvares Correia.
